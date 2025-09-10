@@ -1,0 +1,17 @@
+# Build outputs
+bin/
+obj/
+[Bb]uild/
+[Ll]ogs/
+
+# VS/VSCode
+.vs/
+.vscode/
+
+# User-specific
+*.user
+*.suo
+
+# Others
+*.cache
+*.log
